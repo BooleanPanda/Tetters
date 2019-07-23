@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tetters/static/css/main.e61bed15.chunk.css",
+    "main.js": "/tetters/static/js/main.f733f0f9.chunk.js",
+    "main.js.map": "/tetters/static/js/main.f733f0f9.chunk.js.map",
+    "runtime~main.js": "/tetters/static/js/runtime~main.cb3b1a57.js",
+    "runtime~main.js.map": "/tetters/static/js/runtime~main.cb3b1a57.js.map",
+    "static/js/2.1a42d3c6.chunk.js": "/tetters/static/js/2.1a42d3c6.chunk.js",
+    "static/js/2.1a42d3c6.chunk.js.map": "/tetters/static/js/2.1a42d3c6.chunk.js.map",
+    "index.html": "/tetters/index.html",
+    "precache-manifest.a12c80fd3da28b5cd4ca379535709220.js": "/tetters/precache-manifest.a12c80fd3da28b5cd4ca379535709220.js",
+    "service-worker.js": "/tetters/service-worker.js",
+    "static/css/main.e61bed15.chunk.css.map": "/tetters/static/css/main.e61bed15.chunk.css.map",
+    "static/media/App.css": "/tetters/static/media/eye.33e43412.svg"
+  }
+}
