@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tetters/precache-manifest.a12c80fd3da28b5cd4ca379535709220.js"
+  "/tetters/precache-manifest.a57ba859f36a1ed5e3cf639388503525.js"
 );
 
 self.addEventListener('message', (event) => {
