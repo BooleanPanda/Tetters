@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tetters/static/css/main.7e404494.chunk.css",
-    "main.js": "/tetters/static/js/main.3233213f.chunk.js",
-    "main.js.map": "/tetters/static/js/main.3233213f.chunk.js.map",
+    "main.css": "/tetters/static/css/main.b11715ab.chunk.css",
+    "main.js": "/tetters/static/js/main.1afd36cd.chunk.js",
+    "main.js.map": "/tetters/static/js/main.1afd36cd.chunk.js.map",
     "runtime~main.js": "/tetters/static/js/runtime~main.cb3b1a57.js",
     "runtime~main.js.map": "/tetters/static/js/runtime~main.cb3b1a57.js.map",
     "static/js/2.1a42d3c6.chunk.js": "/tetters/static/js/2.1a42d3c6.chunk.js",
     "static/js/2.1a42d3c6.chunk.js.map": "/tetters/static/js/2.1a42d3c6.chunk.js.map",
     "index.html": "/tetters/index.html",
-    "precache-manifest.a57ba859f36a1ed5e3cf639388503525.js": "/tetters/precache-manifest.a57ba859f36a1ed5e3cf639388503525.js",
+    "precache-manifest.371b44309ce5d90c152c462026e608da.js": "/tetters/precache-manifest.371b44309ce5d90c152c462026e608da.js",
     "service-worker.js": "/tetters/service-worker.js",
-    "static/css/main.7e404494.chunk.css.map": "/tetters/static/css/main.7e404494.chunk.css.map",
+    "static/css/main.b11715ab.chunk.css.map": "/tetters/static/css/main.b11715ab.chunk.css.map",
     "static/media/App.css": "/tetters/static/media/eye.33e43412.svg"
   }
 }
